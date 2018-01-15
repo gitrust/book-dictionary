@@ -15,10 +15,12 @@ Project contains all work files for creating a novell book dictionary.
 
 * python
 * python modules
-** googletrans
+** googletrans 2.2.0
+** beautifulsoup
 * make
 
 # References
 
 * https://pypi.python.org/pypi/googletrans
 * http://www.gutenberg.org/files/18857/18857-h/18857-h.htm
+* https://pypi.python.org/pypi/nltk
