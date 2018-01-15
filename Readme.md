@@ -1,4 +1,4 @@
-# Introduction
+# Description
 
 Project contains all work files for creating a novell book dictionary.
 
