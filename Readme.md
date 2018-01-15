@@ -13,10 +13,9 @@ Project contains all work files for creating a novell book dictionary.
 
 # Requirements
 
-* python
-* python modules
-** googletrans 2.2.0
-** beautifulsoup
+* python 3.5
+* python module googletrans 2.2.0
+* python module beautifulsoup
 * make
 
 # References
