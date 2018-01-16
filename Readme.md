@@ -2,7 +2,14 @@
 
 Project contains all work files for creating a novell book dictionary.
 
-## Simple steps
+The idea behind this project was to have a lookup dictionary while reading a book in english.
+
+# How To
+
+1. adapt Makefile (Title, URL)
+2. make all
+
+## Simple steps explained
 
 1. Download raw book
 2. Preprocess raw version of book text
@@ -23,3 +30,7 @@ Project contains all work files for creating a novell book dictionary.
 * https://pypi.python.org/pypi/googletrans
 * http://www.gutenberg.org/files/18857/18857-h/18857-h.htm
 * https://pypi.python.org/pypi/nltk
+
+# Screenshot
+
+![Screenshot](screenshot.jpg "Screenshot")

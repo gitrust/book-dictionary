@@ -2,6 +2,19 @@
 TITLE:=Journey to the centre of the earth
 URL:=http://www.gutenberg.org/files/18857/18857-h/18857-h.htm
 
+
+# Main target 
+# - to download a book
+# - process it (extract all words for translation)
+# - translate 
+# - create a html version of dictionary
+all:
+	make download-book
+	make book2text
+	make parse-text
+	make translate
+	make html
+
 # Download HTML book as book.html
 download-book:
 	wget -O book.html $(URL)
@@ -10,13 +23,21 @@ download-book:
 book2text:
 	python totext.py > book.txt
 
-parse:
+parse-text:
 	python parse.py book.txt > rawlist.txt
 	cat  rawlist.txt | sort | uniq -i > sorted.txt
 
 # translate dictionary entries
 translate:
 	python translate.py sorted.txt translated.txt
+	
+# Convert dictionary to HTML version
+html:
+	python tohtml.py translated.txt dic.html "$(TITLE)"
+
+#
+# Additional help targets
+#
 
 # sort translated file
 sort-translated:
@@ -30,8 +51,3 @@ untranslated:
 # filter untranslated words (error during translation) to a new list
 filter-translated:
 	grep -ve ':: *$$' translated.txt | sort > filtered-translated.txt
-	
-# Convert dictionary to HTML version
-dic2html:
-	python tohtml.py translated.txt dic.html "$(TITLE)"
-
