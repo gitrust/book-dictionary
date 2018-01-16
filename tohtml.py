@@ -1,5 +1,6 @@
 from string import ascii_lowercase
 import codecs
+import sys
 
 # minified version, without line breaks
 minified = True
@@ -46,6 +47,7 @@ def writehtml(input,output,title):
     println(h,'<title>'+title+'</title>')
     println(h,"</head>")
     println(h,"<body>")
+    println(h,"<h1>"+title+"</h1>")
 
     lastchar = ""
     opendiv = False
@@ -78,8 +80,7 @@ def writehtml(input,output,title):
     h.close()
 
 def main():
-    title = 'Journey to the center of the earth'
-    writehtml("translated.txt","dic.html",title)
+    writehtml(sys.argv[1],sys.argv[2],sys.argv[3])
 
 if __name__ == "__main__":
     main()

@@ -2,41 +2,68 @@
 import codecs
 from googletrans import Translator
 import time
+import sys
 
-skip = 7893
+
 
 trans = Translator()
 
-def transl(word):
-    if not word or len(word.strip()) == 0:
-        return ""
+def transl(words,token):
+    if not words or len(words) == 0:
+        return []
+    
     try:
-        s = trans.translate(word.strip(),src='en',dest='de').text.strip()
-        return s
+        translated = []
+        tlist = trans.translate(words,src='en',dest='de')
+        for t in tlist:
+            translated.append((t.origin,t.text))
+        return translated
 #json.decoder.JSONDecodeError
     except :
-        print("Error at word: " + word)
-        return ""
-
+        print("Error at token: " + token)
+        return []
+    
 def openfile(f,flags):
     return codecs.open(f,flags,"utf-8")
+
+def trans_to_file(out,dic):
+    translated =  transl(dic,"token")
+    for origin, text in translated:
+        line = origin + "  ::  " + text
+        out.write(line + "\n")
+
+def main():
+    # TODO check which are already translated
+    skip = -1
     
-f = openfile("sorted.txt","r")
-out = openfile("translated.txt","a")
+    #translated = already_translated_list(sys.argv[2])
+    
+    f = openfile(sys.argv[1],"r")    
+    out = openfile(sys.argv[2],"a")
+    
+    bucketsize = 50
+    i = 0
+    bucket = []
+    for entry in f:
+        i = i + 1
+        entry = entry.strip()
+        if  len(entry) == 0 or skip > i:
+            continue
+                
+        # translate bucket
+        if bucketsize == len(bucket):
+            trans_to_file(out,bucket)
+            bucket = []
+        
+        # gather all potential words into a bucket
+        # to translate them in a bulk
+        bucket.append(entry)
 
-i = 0
-for l in f:
-    i = i + 1
-    if not l or len(l.strip()) == 0 or skip > i:
-        continue
-    if i % 100 == 0:
-        print("sleep 5s")
-        time.sleep(5)
-    line = l.strip() + "  ::  " + transl(l)
-    out.write(line + "\n")
+        if i % 10 == 0:
+            print("Translated words: " + str(i))
 
-    if i % 10 == 0:
-        print("Translated words: " + str(i))
+    f.close()
+    out.close()
 
-f.close()
-out.close()
+if __name__ == "__main__":
+    main()

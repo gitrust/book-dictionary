@@ -201,9 +201,9 @@ alight  ::  angehen
 alighted  ::  ausgestiegen
 alike  ::  wie
 alive  ::  am Leben
-all  ::  alle
 all-absorbing  ::  alles absorbierend
 all-important  ::  alles wichtige
+all  ::  alle
 alley  ::  Gasse
 alligators  ::  Alligatoren
 all—why  ::  all-warum
@@ -291,8 +291,8 @@ annoyed  ::  verärgert
 annoys  ::  ärgert
 annual  ::  jährlich
 Anoplotherium  ::  Anoplotherium
-another  ::  Ein weiterer
 another's  ::  ein anderer
+another  ::  Ein weiterer
 another—their  ::  ein anderes - ihr
 answer  ::  Antworten
 answered  ::  antwortete
@@ -538,18 +538,18 @@ awake  ::  Erwachen
 awakened  ::  erwacht
 awakening  ::  Erwachen
 aware  ::  bewusst
-away  ::  Weg
 away--you  ::  weg - du
-awe  ::  Scheu
+away  ::  Weg
 awe-stricken  ::  ehrfürchtig
+awe  ::  Scheu
 aweather  ::  aweather
 awful  ::  furchtbar
 awfull  ::  schrecklich
 awkward  ::  peinlich
 awoke  ::  erwachte
 axiom  ::  Axiom
-azure  ::  azurblau
 azure-colored  ::  azurblau
+azure  ::  azurblau
 babies  ::  Babys
 Babylon  ::  Babylon
 Bacchante  ::  Bacchantin
@@ -702,8 +702,8 @@ be—you  ::  sei-du
 bereaved  ::  Hinterbliebener
 beside  ::  neben
 Besides  ::  Außerdem
-best  ::  Beste
 best-informed  ::  bestens informiert
+best  ::  Beste
 bestrode  ::  bestrode
 Beta  ::  Beta
 betimes  ::  beizeiten
@@ -723,8 +723,8 @@ billows  ::  Wellen
 binary  ::  binär
 binding  ::  Bindung
 bird  ::  Vogel
-birds  ::  Vögel
 birds'  ::  Vögel '
+birds  ::  Vögel
 birth  ::  Geburt
 birthplace  ::  Geburtsort
 biscuit  ::  Keks
@@ -767,8 +767,8 @@ blockhead  ::  Dummkopf
 blocks  ::  Blöcke
 blood  ::  Blut
 blot  ::  Fleck
-blow  ::  Schlag
 blow-hole  ::  Atemloch
+blow  ::  Schlag
 blowing  ::  weht
 blown  ::  geblasen
 blows  ::  Schläge
@@ -834,8 +834,8 @@ bowels  ::  Eingeweide
 box  ::  Box
 boxed  ::  verpackt
 boxes  ::  Boxen
-boy  ::  Junge
 boy's  ::  Jungen
+boy  ::  Junge
 boy—Harry—this  ::  Junge - Harry - das
 boy—have  ::  Junge haben
 boy—the  ::  Junge-der
@@ -849,8 +849,8 @@ Brantar  ::  Brantar
 brave  ::  mutig
 Brazilian  ::  Brasilianisch
 bread  ::  Brot
-break  ::  Unterbrechung
 break-up  ::  beenden
+break  ::  Unterbrechung
 breakfast  ::  Frühstück
 breakfasted  ::  gefrühstückt
 breaking  ::  brechen
@@ -913,8 +913,8 @@ bur  ::  bur
 burden  ::  Belastung
 buried  ::  begraben
 burn  ::  brennen
-burned  ::  verbrannt
 burned-up  ::  verbrannt
+burned  ::  verbrannt
 burning  ::  Verbrennung
 burnt  ::  verbrannt
 burrow  ::  Bau
@@ -967,8 +967,8 @@ calves  ::  Kälber
 came  ::  kam
 camel  ::  Kamel
 Campet  ::  Campet
-can  ::  kann
 can't  ::  kippen
+can  ::  kann
 Canada  ::  Kanada
 canal  ::  Kanal
 candid  ::  offen
@@ -1009,8 +1009,8 @@ carve  ::  schnitzen
 carved  ::  geschnitzt
 cascade  ::  Kaskade
 cascades  ::  Kaskaden
-case  ::  Fall
 case-hardened  ::  einsatzgehärtet
+case  ::  Fall
 cases  ::  Fälle
 Cassanion  ::  Cassanion
 cassowary  ::  Kasuar
@@ -1264,8 +1264,8 @@ colors  ::  Farben
 colossal  ::  kolossal
 Colossus  ::  Koloss
 Columbus  ::  Kolumbus
-column  ::  Säule
 column-like  ::  säulenartig
+column  ::  Säule
 columns  ::  Säulen
 combat  ::  Kampf
 combatants  ::  Kämpfer
@@ -1373,8 +1373,8 @@ conduct  ::  Verhalten
 conductibility  ::  Leitfähigkeit
 conductor—which  ::  Dirigent-welcher
 conduit  ::  Leitung
-cone  ::  Kegel
 cone-bearing  ::  kegeltragend
+cone  ::  Kegel
 conelike  ::  conelike
 cones  ::  Kegel
 confer  ::  verleihen
@@ -1568,8 +1568,8 @@ courageous  ::  mutig
 course  ::  Kurs
 course—a  ::  Kurs-a
 court  ::  Gericht
-cousin  ::  Cousin
 cousin's  ::  Cousins
+cousin  ::  Cousin
 cousins—german  ::  Cousins-Deutsch
 cover  ::  Abdeckung
 covered  ::  bedeckt
@@ -1689,8 +1689,8 @@ Danish  ::  dänisch
 dare  ::  Wagen
 dared  ::  gewagt
 daring  ::  gewagt
-dark  ::  dunkel
 dark-olive  ::  dunkeloliv
+dark  ::  dunkel
 darker  ::  dunkler
 darkly  ::  dunkel
 darkness  ::  Dunkelheit
@@ -1707,12 +1707,12 @@ Dauphine  ::  Dauphine
 Davy  ::  Davy
 Davy—I  ::  Davy-ich
 dawn  ::  Dämmerung
-day  ::  Tag
 day's  ::  Tage
+day  ::  Tag
 daybreak  ::  Tagesanbruch
 daylight  ::  Tageslicht
-days  ::  Tage
 days'  ::  Tage'
+days  ::  Tage
 days—and  ::  Tage-und
 days—that  ::  Tage-das
 dazzled  ::  geblendet
@@ -1753,8 +1753,8 @@ decreased  ::  verringert
 decreasing  ::  abnehmend
 dederit  ::  Dederit
 deduction  ::  Abzug
-deep  ::  tief
 deep-sea  ::  Tiefsee
+deep  ::  tief
 deeper  ::  Tiefer
 DEEPER—THE  ::  DEEPER-THE
 deepest  ::  tiefste
@@ -2085,8 +2085,8 @@ drama  ::  Theater
 drank  ::  getrunken
 draught  ::  Entwurf
 draw  ::  zeichnen
-drawing  ::  Zeichnung
 drawing-room  ::  Zeichenraum
+drawing  ::  Zeichnung
 drawn  ::  gezeichnet
 dread  ::  fürchten
 dreaded  ::  gefürchtet
@@ -2157,8 +2157,8 @@ earnestness  ::  Ernst
 ears  ::  Ohren
 ears—all  ::  Ohren-alles
 ears—hisses  ::  Ohren-Zischen
-earth  ::  Erde
 earth's  ::  der Erde
+earth  ::  Erde
 earthen  ::  irden
 earthly  ::  irdisch
 earth—it  ::  Erde-es
@@ -2209,15 +2209,14 @@ Efter  ::  Efter
 egg  ::  Ei
 eggs  ::  Eier
 Egyptian  ::  ägyptisch
-eider  ::  Eiderente
 eider-down  ::  Federbett
 eider-duck  ::  Eiderente
+eider  ::  Eiderente
 Eigel  ::  Eigel
 eight  ::  acht
 eighteenth  ::  achtzehnten
 eighth  ::  achte
 eightieth  ::  achtzigsten
-eighty  ::  achtzig
 eighty-fifth  ::  fünfundachtzig
 eighty-five  ::  fünfundachtzig
 eighty-fourth  ::  vierundachtzig
@@ -2226,6 +2225,7 @@ eighty-one  ::  einundachtzig
 eighty-sixth  ::  sechsundachtzig
 eighty-three  ::  dreiundachtzig
 eighty-two  ::  zweiundachtzig
+eighty  ::  achtzig
 either  ::  entweder
 ejected  ::  ausgeworfen
 Ejulberg  ::  Ejulberg
@@ -2400,9 +2400,9 @@ event  ::  Veranstaltung
 eventful  ::  ereignisreich
 events  ::  Veranstaltungen
 events—little  ::  Ereignisse-wenig
-ever  ::  je
 ever-increasing  ::  ständig steigend
 ever-to-be-hated  ::  jemals gehasst werden
+ever  ::  je
 everlasting  ::  ewig
 everlastingly  ::  immerwährend
 ever—increasing  ::  ständig steigend
@@ -2565,8 +2565,8 @@ faintest  ::  am schwächsten
 fainting  ::  Ohnmacht
 faintly  ::  schwach
 faintness  ::  Schwäche
-fair  ::  Messe
 fair-haired  ::  blond
+fair  ::  Messe
 fairly  ::  ziemlich
 faith  ::  Glauben
 faithful  ::  treu
@@ -2588,9 +2588,9 @@ fanciful  ::  fantasievoll
 fancy  ::  schick
 fanned  ::  fächerartig
 fantastic  ::  Fantastisch
-far  ::  weit
 far-off  ::  weit weg
 far-seeing  ::  Weitblick
+far  ::  weit
 fare  ::  Fahrpreis
 Farewell  ::  Abschied
 Farja  ::  Farja
@@ -2684,9 +2684,9 @@ fiery  ::  feurig
 fifteen  ::  fünfzehn
 fifteenth  ::  fünfzehnten
 fifth  ::  fünfte
-fifty  ::  fünfzig
 fifty-four  ::  vierundfünfzig
 fifty-three  ::  dreiundfünfzig
+fifty  ::  fünfzig
 fig  ::  Feige
 fight  ::  Kampf
 fighting  ::  Kampf
@@ -2719,9 +2719,9 @@ finite  ::  endlich
 fins  ::  Flossen
 Finsen  ::  Finsen
 fir  ::  Tanne
-fire  ::  Feuer
 fire-eating  ::  Feuerverzehr
 fire-vomiting  ::  Feuer-Erbrechen
+fire  ::  Feuer
 fired  ::  gefeuert
 fireplace  ::  Kamin
 fireplaces  ::  Kamine
@@ -2730,11 +2730,11 @@ firing  ::  Brennen
 firm  ::  Feste
 firmament  ::  Firmament
 firmly  ::  fest
-first  ::  zuerst
 first-class  ::  erste Klasse
+first  ::  zuerst
 firstclass  ::  erste Klasse
-fish  ::  Fisch
 fish-bones  ::  Gräten
+fish  ::  Fisch
 fisheries  ::  Fischerei
 fisherman  ::  Fischer
 fishermen  ::  Fischer
@@ -2745,8 +2745,8 @@ fist  ::  Faust
 fists  ::  Fäuste
 fit  ::  passen
 fitful  ::  unbeständig
-five  ::  fünf
 five-and-twenty  ::  fünf und zwanzig
+five  ::  fünf
 fives—in  ::  Fünfer
 fix  ::  Fix
 fixed  ::  Fest
@@ -2767,8 +2767,8 @@ flashed  ::  blitzte auf
 flashes  ::  blitzt
 flashing  ::  blinkend
 flasks  ::  Flaschen
-flat  ::  eben
 flat-bottom  ::  flacher Boden
+flat  ::  eben
 flattened  ::  abgeflacht
 flavor  ::  Geschmack
 flavored  ::  mit ...-Geschmack
@@ -2890,10 +2890,10 @@ fortuna  ::  Fortuna
 fortunate  ::  glücklich
 Fortunately  ::  Glücklicherweise
 fortune  ::  Vermögen
-forty  ::  vierzig
 Forty-eight  ::  Achtundvierzig
 forty-seven  ::  siebenundvierzig
 forty-two  ::  zweiundvierzig
+forty  ::  vierzig
 Forut  ::  Forut
 forward  ::  nach vorne
 Forward—forward  ::  Weiter, weiter
@@ -2907,8 +2907,8 @@ founded  ::  Gegründet
 founder  ::  Gründer
 foundry  ::  Gießerei
 fountains  ::  Brunnen
-Four  ::  Vier
 four-tenths  ::  vier Zehntel
+Four  ::  Vier
 fours  ::  Vieren
 Fourteen  ::  Vierzehn
 fourteenth  ::  vierzehnte
@@ -2964,8 +2964,8 @@ full  ::  voll
 Fully  ::  Völlig
 fulminating  ::  fulminierend
 funereal  ::  Begräbnis
-funnel  ::  Trichter
 funnel-shaped  ::  trichterförmig
+funnel  ::  Trichter
 funnels  ::  Trichter
 furious  ::  wütend
 furiously  ::  wütend
@@ -3061,8 +3061,8 @@ geyser  ::  Geysir
 geysir  ::  Geysir
 ghastly  ::  grässlich
 ghost  ::  Geist
-giant  ::  Riese
 Giant's  ::  Riesen
+giant  ::  Riese
 giantess  ::  Riesin
 giants  ::  Riesen
 gibberish  ::  Kauderwelsch
@@ -3102,8 +3102,8 @@ glimmer  ::  Glimmer
 glimpse  ::  Blick
 glimpses  ::  Einblicke
 glittering  ::  glänzend
-globe  ::  Globus
 globe's  ::  Globes
+globe  ::  Globus
 globe—but  ::  Globus - aber
 globe—the  ::  Globus-der
 globes  ::  Kugeln
@@ -3119,8 +3119,8 @@ gnawing  ::  nagend
 gneiss  ::  Gneis
 goal  ::  Tor
 goatskin  ::  Ziegenleder
-God  ::  Gott
 god-daughter  ::  Patentochter
+God  ::  Gott
 goes  ::  geht
 goest  ::  Goest
 goggle  ::  Goggle
@@ -3128,8 +3128,8 @@ going  ::  gehen
 gold  ::  Gold
 golden  ::  golden
 gone  ::  Weg
-good  ::  gut
 good-by  ::  Auf Wiedersehen
+good  ::  gut
 goodhumoredly  ::  gutmütig
 goodly  ::  gut
 goodness  ::  Güte
@@ -3221,8 +3221,8 @@ guarded  ::  bewacht
 guess  ::  vermuten
 guessed  ::  erraten
 guidance  ::  Beratung
-guide  ::  führen
 guide's  ::  Führer
+guide  ::  führen
 Guided  ::  Geführt
 guide—the  ::  führen-die
 guides  ::  Führer
@@ -3238,8 +3238,8 @@ guns  ::  Waffen
 gusto  ::  Gusto
 gusts  ::  Böen
 gut  ::  Darm
-Gutenberg  ::  Gutenberg
 Gutenberg-tm  ::  Gutenberg-tm
+Gutenberg  ::  Gutenberg
 Gutenberg:  ::  Gutenberg:
 gymnastic  ::  Gymnastik-
 gyratory  ::  kreisförmig
@@ -3256,12 +3256,12 @@ hail  ::  Hagel
 hailstones  ::  Hagelkörner
 hair  ::  Haar
 hairs  ::  Haare
-half  ::  Hälfte
 half-delirious  ::  halb wahnsinnig
 half-finished  ::  halb fertig
 half-moldy  ::  halb verschimmelt
 Half-naked  ::  Halb nackt
 half-vaulted  ::  halb gewölbt
+half  ::  Hälfte
 halfway  ::  auf halber Strecke
 hall  ::  Halle
 halloo  ::  Hallo
@@ -3315,15 +3315,15 @@ hardest  ::  am härtesten
 hardly  ::  kaum
 hardness  ::  Härte
 hardship  ::  Not
-Hardwigg  ::  Hardwigg
 Hardwigg's  ::  Hardwiggs
+Hardwigg  ::  Hardwigg
 hardy  ::  winterhart
 harm  ::  Schaden
 harmless  ::  harmlos
 harmonious  ::  harmonisch
 harrow  ::  Egge
-Harry  ::  Harry
 Harry's  ::  Harry's
+Harry  ::  Harry
 Harry—Harry—Harry—  ::  Harry-Harry-Harry-
 Harry—if  ::  Harry-wenn
 Harry—once  ::  Harry - einmal
@@ -3373,8 +3373,8 @@ heated  ::  erhitzt
 heather  ::  Heidekraut
 heat—in  ::  einheizen
 heats  ::  heizt
-Heaven  ::  Himmel
 heaven's  ::  Himmel ist
+Heaven  ::  Himmel
 heavens  ::  Himmel
 heavier  ::  schwerer
 heaviest  ::  schwerste
@@ -3407,8 +3407,8 @@ Hem—to  ::  Hem-zu
 hems  ::  Säume
 hence  ::  daher
 henceforth  ::  fortan
-Henry  ::  Henry
 Henry's  ::  Henry's
+Henry  ::  Henry
 her  ::  ihr
 herbaceous  ::  krautig
 herbarium  ::  Herbarium
@@ -3525,10 +3525,10 @@ hot  ::  heiß
 hothouse  ::  Treibhaus
 hotly  ::  heiß
 hotter  ::  heisser
-hour  ::  Stunde
 hour's  ::  Std
-hours  ::  Std.
+hour  ::  Stunde
 hours'  ::  Std'
+hours  ::  Std.
 hours—but  ::  Stunden - aber
 hours—what  ::  Stunden-was
 house  ::  Haus
@@ -3564,8 +3564,8 @@ hundredth  ::  Hundertstel
 hung  ::  aufgehängt
 hunger  ::  Hunger
 hungry  ::  hungrig
-hunter  ::  Jäger
 hunter-guide  ::  Jägerführer
+hunter  ::  Jäger
 HUNTER—OFF  ::  Hunter-Off
 hunting  ::  Jagd
 Huppe  ::  Hupe
@@ -3590,10 +3590,10 @@ ice  ::  Eis
 icebergs—nothing  ::  Eisberge - nichts
 icebound  ::  eisgebunden
 Iceland  ::  Island
-Icelander  ::  Isländer
 Icelander's  ::  Isländer
-Icelanders  ::  Isländer
+Icelander  ::  Isländer
 Icelanders'  ::  Isländer
+Icelanders  ::  Isländer
 Icelandic  ::  isländisch
 Iceland—should  ::  Island-sollte
 Ichthyosaurus  ::  Ichthyosaurus
@@ -3612,11 +3612,11 @@ ignite  ::  entzünden
 ignorance  ::  Ignoranz
 ignorant  ::  ignorant
 ignoring  ::  zu ignorieren
-ill  ::  krank
 ill-favored  ::  benachteiligt
 ill-joined  ::  schlecht verbunden
 ill-mannered  ::  unartig
 ill-temper  ::  schlechte Laune
+ill  ::  krank
 illness  ::  Krankheit
 illuminated  ::  beleuchtet
 illuminating  ::  Beleuchtung
@@ -3828,8 +3828,8 @@ insisted  ::  beharrte
 installed  ::  Eingerichtet
 instance  ::  Beispiel
 instances  ::  Instanzen
-instant  ::  sofortig
 instant's  ::  Sofortnachrichten
+instant  ::  sofortig
 instantaneous  ::  sofort
 instantly  ::  sofort
 instead  ::  stattdessen
@@ -3917,8 +3917,8 @@ I—I  ::  Ich-ich
 ipse[5]  ::  ipse [5]
 ira  ::  Ira
 Ireland  ::  Irland
-iron  ::  Eisen
 iron-shod  ::  Eisen beschlagen
+iron  ::  Eisen
 irony  ::  Ironie
 irradiation  ::  Bestrahlung
 irreconcilable  ::  unvereinbar
@@ -3960,8 +3960,8 @@ it—this  ::  es diese
 its  ::  es ist
 itself  ::  selbst
 itself—only  ::  nur-selbst
-ivy  ::  Efeu
 ivy-clad  ::  Efeu-bekleidet
+ivy  ::  Efeu
 jagged  ::  gezackt
 James  ::  James
 Jan  ::  Jan
@@ -4036,8 +4036,8 @@ Kiel  ::  Kiel
 killed  ::  getötet
 kind  ::  nett
 kindly  ::  freundlich
-King  ::  König
 king's  ::  König
+King  ::  König
 Kingdom  ::  Königreich
 kiss  ::  Kuss
 kissed  ::  geküsst
@@ -4052,8 +4052,8 @@ knell  ::  Totenglocke
 knew  ::  wusste
 knife  ::  Messer
 knitted  ::  gestrickt
-knock  ::  klopfen
 knock-down  ::  niederschlagen
+knock  ::  klopfen
 knocked  ::  geklopft
 knocks  ::  klopft
 know  ::  kennt
@@ -4219,8 +4219,8 @@ lie  ::  Lüge
 lied  ::  gelogen
 lies  ::  Lügen
 lieu  ::  lieu
-life  ::  Leben
 life-giving  ::  lebensspendend
+life  ::  Leben
 life—scarcely  ::  Leben - kaum
 lifetime  ::  Lebenszeit
 lift  ::  Aufzug
@@ -4274,8 +4274,8 @@ lit  ::  zündete
 literally  ::  buchstäblich
 literary  ::  literarisch
 literature  ::  Literatur
-little  ::  wenig
 little-known  ::  wenig bekannt
+little  ::  wenig
 live  ::  Leben
 lived  ::  lebte
 lively  ::  lebhaft
@@ -4306,8 +4306,8 @@ logical  ::  logisch
 logically  ::  logisch
 loins  ::  Lenden
 lonely  ::  einsam
-long  ::  lange
 long-deserted  ::  lange verlassen
+long  ::  lange
 longer  ::  länger
 longer—but  ::  länger - aber
 longest  ::  am längsten
@@ -4410,8 +4410,8 @@ mammals  ::  Säugetiere
 mammifers  ::  Säuger
 mammoth  ::  Mammut-
 mammoths  ::  Mammuts
-man  ::  Mann
 man's  ::  des Mannes
+man  ::  Mann
 man:  ::  Mann:
 manage  ::  verwalten
 mane  ::  Mähne
@@ -4463,8 +4463,8 @@ material  ::  Material
 materials  ::  Materialien
 mathematical  ::  mathematisch
 matted  ::  verfilzt
-matter  ::  Angelegenheit
 matter-of-fact  ::  sachlich
+matter  ::  Angelegenheit
 mattered  ::  zählte
 matters  ::  Angelegenheiten
 maximum  ::  maximal
@@ -4634,12 +4634,12 @@ moldy  ::  schimmelig
 molecule  ::  Molekül
 mollusca  ::  Mollusca
 mollusks  ::  Mollusken
-moment  ::  Moment
 moment's  ::  Moment ist
+moment  ::  Moment
 momentarily  ::  momentan
 momentary  ::  momentan
-moments  ::  Momente
 moments'  ::  Momente '
+moments  ::  Momente
 Monday  ::  Montag
 money  ::  Geld
 monkey  ::  Affe
@@ -4652,8 +4652,8 @@ monster  ::  Monster-
 monsters  ::  Monster
 monstrous  ::  monströs
 month  ::  Monat
-months  ::  Monate
 months'  ::  Monate '
+months  ::  Monate
 mood  ::  Stimmung
 moody  ::  launisch
 moon  ::  Mond
@@ -4676,8 +4676,8 @@ moss  ::  Moos
 mosses  ::  Moose
 mossy  ::  moosig
 most  ::  die meisten
-Mother  ::  Mutter
 mother's  ::  Mutters
+Mother  ::  Mutter
 motion  ::  Bewegung
 motionless  ::  bewegungslos
 motions  ::  Bewegungen
@@ -4771,8 +4771,8 @@ natural  ::  natürlich
 naturalist  ::  Naturforscher
 naturalists  ::  Naturforscher
 naturally  ::  natürlich
-nature  ::  Natur
 nature's  ::  Natur ist
+nature  ::  Natur
 natures  ::  Naturen
 nautical  ::  nautisch
 naval  ::  Marine-
@@ -4819,12 +4819,12 @@ nests  ::  Nester
 net  ::  Netz
 nether  ::  unter
 neutralized  ::  neutralisiert
-never  ::  noch nie
 never-ending  ::  niemals endend
+never  ::  noch nie
 Nevertheless  ::  Dennoch
 Nevertheless—  ::  Dennoch-
-new  ::  Neu
 new-found  ::  neu gefunden
+new  ::  Neu
 Newcastle  ::  Newcastle
 newest  ::  neueste
 newly  ::  neu
@@ -4834,8 +4834,8 @@ nibble  ::  knabbern
 nice  ::  nett
 niece  ::  Nichte
 niedrke  ::  niedrke
-Night  ::  Nacht
 night's  ::  die Nacht
+Night  ::  Nacht
 nightcap  ::  Nachtmütze
 nightmare  ::  Albtraum
 nightmare—I  ::  Alptraum-ich
@@ -4981,8 +4981,8 @@ Ofvanfor  ::  Ofvanfür
 Ohio  ::  Ohio
 oil  ::  Öl
 ointment  ::  Salbe
-old  ::  alt
 old-fashioned  ::  altmodisch
+old  ::  alt
 older  ::  älter
 oldest  ::  älteste
 olfactory  ::  olfaktorisch
@@ -4995,11 +4995,11 @@ omelettes  ::  Omelettes
 omitted  ::  weggelassen
 omitting  ::  Weglassen
 once  ::  Einmal
-one  ::  ein
 one's  ::  Einsen
 one--the  ::  einer - der
 one-eighth  ::  ein Achtel
 one-worded  ::  einsprachig
+one  ::  ein
 one—that  ::  einer der
 one—what  ::  ein was
 ones  ::  Einsen
@@ -5009,8 +5009,8 @@ only  ::  nur
 onto  ::  auf zu
 onwards  ::  weiter
 opaque  ::  undurchsichtig
-open  ::  öffnen
 open-mouthed  ::  mit offenem Mund
+open  ::  öffnen
 opened  ::  geöffnet
 opening  ::  Öffnung
 opening—but  ::  Eröffnung-aber
@@ -5057,8 +5057,8 @@ oseibo  ::  Oseibo
 osseous  ::  knöchern
 ossiferous  ::  Ossiferen
 ostrich  ::  Strauß
-other  ::  andere
 other's  ::  Andere
+other  ::  andere
 other—a  ::  anderes-a
 Others  ::  Andere
 others—were  ::  andere-waren
@@ -5080,9 +5080,9 @@ outset  ::  Anfang
 outside  ::  draußen
 outward  ::  nach außen
 oval  ::  Oval
-over  ::  Über
 over-hanging  ::  überhängend
 over-heated  ::  überhitzt
+over  ::  Über
 overcame  ::  überwand
 overcast  ::  bedeckt
 overcome  ::  überwinden
@@ -5143,8 +5143,8 @@ pamphlets  ::  Broschüren
 pan  ::  Pfanne
 pancakes  ::  Pfannkuchen
 panes  ::  Scheiben
-panorama  ::  Panorama
 panorama-like  ::  panoramaartig
+panorama  ::  Panorama
 panted  ::  keuchte
 panting  ::  keuchend
 paper  ::  Papier-
@@ -5348,22 +5348,22 @@ pilot  ::  Pilot
 pine  ::  Kiefer
 pines  ::  Kiefern
 pinewood  ::  Kiefernholz
-pint  ::  
-pioneer  ::  
-pious  ::  
-pipe  ::  
-pipes  ::  
-pirouetted  ::  
-pit  ::  
+pint  ::  Pint
+pioneer  ::  Pionier
+pious  ::  fromm
+pipe  ::  Rohr
+pipes  ::  Rohre
+pirouetted  ::  Pirouetted
+pit  ::  Grube
 pitch  ::  Tonhöhe
 pitched  ::  aufgeschlagen
 pitiless  ::  erbarmungslos
-pity  ::  
+pity  ::  das Mitleid
 pitying  ::  mitleidig
-place  ::  Ort
 place-none  ::  Platz keine
+place  ::  Ort
 placed  ::  platziert
-place—there  ::  
+place—there  ::  Ort - dort
 places  ::  setzt
 placid  ::  ruhig
 placidity  ::  Gelassenheit
@@ -5374,186 +5374,186 @@ plainly  ::  deutlich
 plains  ::  Ebenen
 plaintive  ::  klagend
 plaited  ::  geflochten
-plan  ::  
+plan  ::  planen
 plane  ::  Ebene
-planes  ::  
-planes—one  ::  
-planet  ::  
+planes  ::  Flugzeuge
+planes—one  ::  Flugzeuge-eins
+planet  ::  Planet
 planetary  ::  Planeten
 planets  ::  Planeten
-planks  ::  
-plans  ::  
+planks  ::  Bretter
+plans  ::  Pläne
 plants  ::  Pflanzen
 plate  ::  Teller
 Plater  ::  Plater
-plates  ::  
+plates  ::  Platten
 platform  ::  Plattform
 platinum  ::  Platin
 Plato  ::  Plato
-play  ::  
+play  ::  abspielen
 played  ::  gespielt
 playing  ::  spielen
 plaything  ::  Spielzeug
 pleasant  ::  angenehm
 pleasantly  ::  angenehm
 please  ::  Bitte
-pleased  ::  
+pleased  ::  zufrieden
 pleasurable  ::  angenehm
 pleasure  ::  Vergnügen
 pleasures  ::  Vergnügen
-plenty  ::  
+plenty  ::  viel
 Plesiosaurus  ::  Plesiosaurus
-Pliocene  ::  
-plow  ::  
-plume  ::  
-plummet  ::  
-plunge  ::  
+Pliocene  ::  Pliozän
+plow  ::  Pflug
+plume  ::  Feder
+plummet  ::  Lot
+plunge  ::  stürzen
 plunged  ::  gestürzt
-plunging  ::  
-Pluto  ::  
+plunging  ::  eintauchen
+Pluto  ::  Pluto
 pocket  ::  Tasche
 pockets  ::  Taschen
 pods  ::  Schoten
-poet  ::  
-poetic  ::  
+poet  ::  Dichter
+poetic  ::  poetisch
 poetical  ::  poetisch
-point  ::  
+point  ::  Punkt
 pointed  ::  spitz
-pointing  ::  
-points  ::  
-poisonous  ::  
+pointing  ::  zeigend
+points  ::  Punkte
+poisonous  ::  giftig
 poked  ::  gestoßen
 polar  ::  Polar-
-pole  ::  
-Pole—  ::  
-Pole—no—well—well  ::  
-poles  ::  
-politely  ::  
-politeness  ::  
-polyglot  ::  
-Polyphemus  ::  
-pomegranates  ::  
-pond  ::  
-ponder  ::  
-ponds  ::  
-poniard  ::  
-pony  ::  
-pools  ::  
-poor  ::  
-poorly  ::  
-poplar  ::  
-population  ::  
-pore  ::  
-pored  ::  
-poring  ::  
-porous  ::  
-porphyries  ::  
-porpoise  ::  
-porridge  ::  
-port  ::  
-port:  ::  
-portent  ::  
-porters  ::  
-portion  ::  
-portions  ::  
-Portland  ::  
-portmanteau  ::  
-portrait  ::  
-position  ::  
-positions  ::  
-positive  ::  
-positively  ::  
-possess  ::  
-possessed  ::  
-possession  ::  
-possessions  ::  
-possibility  ::  
-possible  ::  
-possibly  ::  
-post  ::  
-postal  ::  
-posted  ::  
-posterior  ::  
-posterity  ::  
-posts  ::  
-potatoes  ::  
-pots  ::  
-pottery  ::  
-poultices  ::  
-pound  ::  
-pounds  ::  
-poured  ::  
-pouring  ::  
-pours  ::  
-powder  ::  
-power  ::  
-powerful  ::  
-powerfully  ::  
-powerless  ::  
-practical  ::  
-practically  ::  
-practice  ::  
-practicing  ::  
-prairies  ::  
-Pray  ::  
-prayed  ::  
-prayer  ::  
-preadamites  ::  
-precaution  ::  
-precautions  ::  
-preceded  ::  
-precedent  ::  
-preceding  ::  
-precious  ::  
-precipice  ::  
-precipices  ::  
-precipitated  ::  
-precise  ::  
-precisely  ::  
-precision  ::  
-preclude  ::  
-preconceived  ::  
-predict  ::  
-predominating  ::  
-prefer  ::  
-preferred  ::  
-prehistoric  ::  
-preliminary  ::  
-prelude  ::  
-preoccupation  ::  
-preparation  ::  
-preparations  ::  
-prepare  ::  
-prepared  ::  
-preparing  ::  
-preposterous  ::  
+pole  ::  Pole
+Pole—  ::  Pole-
+Pole—no—well—well  ::  Pole-na-gut-gut
+poles  ::  Stangen
+politely  ::  höflich
+politeness  ::  Höflichkeit
+polyglot  ::  Polyglott
+Polyphemus  ::  Polyphemus
+pomegranates  ::  Granatäpfel
+pond  ::  Teich
+ponder  ::  überlege
+ponds  ::  Teiche
+poniard  ::  Dolch
+pony  ::  Pony
+pools  ::  Pools
+poor  ::  Arm
+poorly  ::  schlecht
+poplar  ::  Pappel
+population  ::  Population
+pore  ::  Pore
+pored  ::  porös
+poring  ::  Poring
+porous  ::  porös
+porphyries  ::  Porphyrien
+porpoise  ::  Tümmler
+porridge  ::  Haferbrei
+port  ::  Hafen
+port:  ::  Hafen:
+portent  ::  Zeichen
+porters  ::  Träger
+portion  ::  Portion
+portions  ::  Portionen
+Portland  ::  Portland
+portmanteau  ::  Handkoffer
+portrait  ::  Porträt
+position  ::  Position
+positions  ::  Positionen
+positive  ::  positiv
+positively  ::  positiv
+possess  ::  besitzen
+possessed  ::  besessen
+possession  ::  Besitz
+possessions  ::  Besitztümer
+possibility  ::  Möglichkeit
+possible  ::  möglich
+possibly  ::  möglicherweise
+post  ::  Post
+postal  ::  Post-
+posted  ::  Gesendet
+posterior  ::  hintere
+posterity  ::  Nachwelt
+posts  ::  Beiträge
+potatoes  ::  Kartoffeln
+pots  ::  Töpfe
+pottery  ::  Keramik
+poultices  ::  Umschläge
+pound  ::  Pfund
+pounds  ::  Pfund
+poured  ::  gegossen
+pouring  ::  Gießen
+pours  ::  gießt
+powder  ::  Pulver
+power  ::  Leistung
+powerful  ::  mächtig
+powerfully  ::  kraftvoll
+powerless  ::  machtlos
+practical  ::  praktisch
+practically  ::  praktisch
+practice  ::  trainieren
+practicing  ::  üben
+prairies  ::  Prärien
+Pray  ::  Beten
+prayed  ::  betete
+prayer  ::  Gebet
+preadamites  ::  Preadamiten
+precaution  ::  Vorsicht
+precautions  ::  Vorsichtsmaßnahmen
+preceded  ::  vorangegangen
+precedent  ::  Präzedenzfall
+preceding  ::  vor
+precious  ::  kostbar
+precipice  ::  Abgrund
+precipices  ::  Abgründe
+precipitated  ::  gefällt
+precise  ::  präzise
+precisely  ::  genau
+precision  ::  Präzision
+preclude  ::  ausschließen
+preconceived  ::  vorgefasst
+predict  ::  vorhersagen
+predominating  ::  vorherrschend
+prefer  ::  bevorzugen
+preferred  ::  bevorzugt
+prehistoric  ::  prähistorisch
+preliminary  ::  vorläufig
+prelude  ::  Auftakt
+preoccupation  ::  Beschäftigung
+preparation  ::  Vorbereitung
+preparations  ::  Vorbereitungen
+prepare  ::  bereiten
+prepared  ::  bereit
+preparing  ::  Vorbereitung
+preposterous  ::  absurd
 presbytery  ::  Presbyterium
 presence  ::  Gegenwart
 present  ::  Geschenk
 presented  ::  vorgeführt
-Presently  ::  
-presents  ::  
+Presently  ::  Gegenwärtig
+presents  ::  die Geschenke
 preservation  ::  Erhaltung
-preserve  ::  
+preserve  ::  erhalten
 preserved  ::  konserviert
 press  ::  Drücken Sie
 pressed  ::  gedrückt
-pressure  ::  
-pretend  ::  
-pretended  ::  
-pretensions  ::  
+pressure  ::  Druck
+pretend  ::  so tun als ob
+pretended  ::  vorgetäuscht
+pretensions  ::  Ansprüche
 preternatural  ::  übernatürlich
-pretty  ::  
-prevailed  ::  
-prevent  ::  
-prevented  ::  
-preventing  ::  
-previous  ::  
-previsions  ::  
-prey  ::  
-preyed  ::  
+pretty  ::  ziemlich
+prevailed  ::  herrschte
+prevent  ::  verhindern
+prevented  ::  verhindert
+preventing  ::  verhindern
+previous  ::  Bisherige
+previsions  ::  Vorhersagen
+prey  ::  Beute
+preyed  ::  Beute gemacht
 price  ::  Preis
-pride  ::  
+pride  ::  Stolz
 pride—my  ::  Stolz-mein
 priests  ::  Priester
 prime  ::  prime
@@ -5566,8 +5566,8 @@ principle[1]  ::  Prinzip [1]
 principles  ::  Prinzipien
 print  ::  drucken
 printed  ::  gedruckt
-prismatic  ::  
-prisms  ::  
+prismatic  ::  prismatisch
+prisms  ::  Prismen
 prison  ::  Gefängnis
 prisoner  ::  Häftling
 pristine  ::  makellos
@@ -5579,32 +5579,32 @@ probability  ::  Wahrscheinlichkeit
 probable  ::  wahrscheinlich
 probably  ::  wahrscheinlich
 problem  ::  Problem
-proceed  ::  
+proceed  ::  Vorgehen
 proceeded  ::  verlief
 proceeding  ::  fortfahren
 proceedings  ::  Verfahren
 proceeds  ::  Erlös
 process  ::  verarbeiten
-processing  ::  
-procession  ::  
+processing  ::  wird bearbeitet
+procession  ::  Prozession
 proclaimed  ::  verkündet
-proclaiming  ::  
+proclaiming  ::  proklamierend
 prodigal  ::  verschwenderisch
 prodigies  ::  Wunderkinder
-prodigious  ::  
+prodigious  ::  erstaunlich
 prodigiously  ::  ungeheuer
 produce  ::  produzieren
 produced  ::  produziert
-produces  ::  
+produces  ::  produziert
 producing  ::  produzierend
 product  ::  Produkt
 professed  ::  bekennt
 profession  ::  Beruf
 professional  ::  Professionel
-professor  ::  
 Professor's  ::  Professor's
+professor  ::  Professor
 professor—he  ::  Professor-er
-professors  ::  
+professors  ::  Professoren
 profile  ::  Profil
 profit  ::  profitieren
 profitable  ::  profitabel
@@ -5612,43 +5612,43 @@ profound  ::  tiefgreifend
 profoundly  ::  zutiefst
 progenitor  ::  Stammvater
 prognathism  ::  Prognathie
-prognostics  ::  
+prognostics  ::  Prognosen
 progress  ::  Fortschritt
-progressed  ::  
+progressed  ::  fortgeschritten
 progressing  ::  Fortschritte
-progress—a  ::  
-prohibit  ::  
+progress—a  ::  Fortschritt-a
+prohibit  ::  verbieten
 prohibited  ::  verboten
-Project  ::  
+Project  ::  Projekt
 projected  ::  projiziert
 projectile  ::  Projektil
-projecting  ::  
+projecting  ::  projizieren
 projection  ::  Projektion
 projections  ::  Projektionen
 projects  ::  Projekte
-prolong  ::  
+prolong  ::  verlängern
 prolonged  ::  verlängert
 prominent  ::  prominent
 prominently  ::  prominent
-promise  ::  
+promise  ::  versprechen
 promised  ::  versprochen
-promising  ::  
+promising  ::  vielversprechend
 promontories  ::  Vorgebirge
-promontory  ::  
-promoting  ::  
-Pronounce  ::  
-pronounced  ::  
+promontory  ::  Vorgebirge
+promoting  ::  fördernd
+Pronounce  ::  Aussprechen
+pronounced  ::  ausgesprochen
 pronounced:  ::  ausgesprochen:
-pronouncing  ::  
+pronouncing  ::  Aussprache
 proof  ::  Beweis
-propagated  ::  
+propagated  ::  propagiert
 propagation  ::  Vermehrung
-propelling  ::  
+propelling  ::  antreibend
 proper  ::  richtig
 properly  ::  richtig
-properties  ::  
+properties  ::  Eigenschaften
 property  ::  Eigentum
-prophetic  ::  
+prophetic  ::  prophetisch
 proportion  ::  Anteil
 proportional  ::  proportional
 proportions  ::  Proportionen
@@ -5665,96 +5665,96 @@ protect  ::  schützen
 protected  ::  geschützt
 protection  ::  Schutz
 Protestant  ::  evangelisch
-protestations  ::  
+protestations  ::  Proteste
 Proteus  ::  Proteus
-proud  ::  
+proud  ::  stolz
 prove  ::  beweisen
 proved  ::  bewiesen
-proverb  ::  
+proverb  ::  Sprichwort
 proves  ::  beweist
-provide  ::  
+provide  ::  zu Verfügung stellen
 provided  ::  unter der Voraussetzung
 Providence  ::  Vorsehung
-providential  ::  
-providing  ::  
-province  ::  
+providential  ::  Vorsehung
+providing  ::  Bereitstellung
+province  ::  Provinz
 provision  ::  Bereitstellung
 provisions  ::  Bestimmungen
-provoking  ::  
+provoking  ::  provozieren
 prudence  ::  Klugheit
-prudent  ::  
-prunes  ::  
+prudent  ::  umsichtig
+prunes  ::  Pflaumen
 Pterodactyl  ::  Pterodaktylus
 Pterychtis  ::  Pterychtis
-Pterychtis—yes  ::  
-public  ::  
+Pterychtis—yes  ::  Pterychtis - ja
+public  ::  Öffentlichkeit
 publications  ::  Veröffentlichungen
 publicly  ::  öffentlich
-publish  ::  
-published  ::  
-puddles  ::  
-pull  ::  
+publish  ::  veröffentlichen
+published  ::  veröffentlicht
+puddles  ::  Pfützen
+pull  ::  ziehen
 pulling  ::  ziehen
 pulse  ::  Impuls
 pulverized  ::  pulverisiert
 pumice  ::  Bimsstein
 pundit  ::  Pandit
-puny  ::  
-pupils  ::  
+puny  ::  mickrig
+pupils  ::  Schüler
 pure  ::  rein
 purely  ::  rein
 purpose  ::  Zweck
 purposely  ::  absichtlich
 purposes  ::  Zwecke
 purse  ::  Geldbörse
-push  ::  
+push  ::  drücken
 pushing  ::  drängen
 put  ::  stellen
 puts  ::  puts
 putting  ::  Putten
 puzzle  ::  Puzzle
 puzzled  ::  verwirrt
-puzzling  ::  
+puzzling  ::  rätselhaft
 pyramids  ::  Pyramiden
 QED  ::  QED
-quacks  ::  
+quacks  ::  Quacksalber
 quacunque  ::  Quacunque
 quadrupeds  ::  Vierfüßler
-quality  ::  
+quality  ::  Qualität
 quantity  ::  Menge
 quarrel  ::  Streit
-quarries  ::  
+quarries  ::  Steinbrüche
 quarter  ::  Quartal
 quarterdeck  ::  Achterdeck
 quarters  ::  Viertel
-quartos  ::  
+quartos  ::  Quartiere
 quartz  ::  Quarz
 Quaternary  ::  Quartär
 Quatrefages  ::  Quatrefages
 Quatrefages—why  ::  Quatrefages - warum
-quay  ::  
+quay  ::  Kai
 quench  ::  löschen
 quenched  ::  abgeschreckt
 querulously  ::  quälend
-questa  ::  
-question  ::  
+questa  ::  Questa
 question'  ::  Frage'
+question  ::  Frage
 questioning  ::  Befragung
 question—there  ::  Frage-da
 questions  ::  Fragen
-quick  ::  
+quick  ::  schnell
 quicken  ::  beschleunigen
 quicker  ::  schneller
 quickly  ::  schnell
-quickness  ::  
+quickness  ::  Schnelligkeit
 quiet  ::  ruhig
-quietest  ::  
-quietly  ::  
+quietest  ::  am leisesten
+quietly  ::  ruhig
 quinquennial  ::  fünfjährig
 quite  ::  ganz
-quitted  ::  
-quivered  ::  
-quivering  ::  
+quitted  ::  hat aufgehört
+quivered  ::  zitterte
+quivering  ::  Zittern
 quivers  ::  Köcher
 quixotic  ::  quixotisch
 quoted  ::  zitiert
@@ -5763,19 +5763,19 @@ race:  ::  Rennen:
 race—of  ::  Rasse-von
 radiant  ::  strahlend
 radiate  ::  strahlen
-radius  ::  
+radius  ::  Radius
 raft  ::  Floß
 raft—our  ::  Floß-unser
 rage  ::  Rage
-raged  ::  
+raged  ::  tobte
 rages  ::  tobt
-ragged  ::  
+ragged  ::  zottig
 raging  ::  tobend
 rags  ::  Lumpen
 railing  ::  Geländer
 railings  ::  Geländer
 railway  ::  Eisenbahn
-rain  ::  
+rain  ::  Regen
 rainbow  ::  Regenbogen
 raise  ::  erziehen
 raised  ::  angehoben
@@ -5783,13 +5783,13 @@ raises  ::  erhebt
 raising  ::  erziehen
 ran  ::  lief
 range  ::  Angebot
-rank  ::  
+rank  ::  Rang
 rapid  ::  schnell
 rapidity  ::  Schnelligkeit
 rapidly  ::  schnell
 rapidly—and  ::  schnell und
 rapid—and  ::  schnell und
-rapid—some  ::  
+rapid—some  ::  schnell-einige
 rapt  ::  begeistert
 raptures  ::  Verzückungen
 rapturous  ::  begeistert
@@ -5800,27 +5800,27 @@ rarity  ::  Seltenheit
 rash  ::  Ausschlag
 rate  ::  Bewertung
 rather  ::  lieber
-rational  ::  
-rations  ::  
-ravenous  ::  
+rational  ::  rational
+rations  ::  Verpflegung
+ravenous  ::  Heißhunger
 ravenously  ::  gierig
 ravines  ::  Schluchten
-ray  ::  
-rays  ::  
-re-use  ::  
+ray  ::  Strahl
+rays  ::  Strahlen
+re-use  ::  Wiederverwendung
 reach  ::  erreichen
-reached  ::  
-reaches  ::  
+reached  ::  erreicht
+reaches  ::  erreicht
 reaching  ::  erreichen
-read  ::  
+read  ::  lesen
 readers  ::  Leser
 readily  ::  leicht
 reading  ::  lesen
 reads  ::  liest
-ready  ::  
+ready  ::  bereit
 real  ::  echt
 realities  ::  Realitäten
-reality  ::  
+reality  ::  Wirklichkeit
 realize  ::  realisieren
 realized  ::  erkannte
 really  ::  Ja wirklich
@@ -5830,65 +5830,65 @@ rear  ::  Rückseite
 reared  ::  aufgezogen
 reason  ::  Grund
 reasonable  ::  angemessen
-reasoned  ::  
+reasoned  ::  vernünftig
 reasoning  ::  Argumentation
 reasonings  ::  Überlegungen
 reasons  ::  Gründe dafür
-reassured  ::  
+reassured  ::  beruhigt
 reassuring  ::  beruhigend
 Reaumur  ::  Reaumur
 rebellion  ::  Rebellion
 rebounds  ::  Rebounds
 recall  ::  erinnern
 recalled  ::  erinnert sich
-receipts  ::  
+receipts  ::  Einnahmen
 receive  ::  erhalten
 received  ::  empfangen
 receiving  ::  Empfang
 recent  ::  kürzlich
-recently  ::  
+recently  ::  vor kurzem
 reception  ::  Rezeption
-recesses  ::  
+recesses  ::  Vertiefungen
 recklessness  ::  Leichtsinn
 reckoned  ::  gerechnet
-reckoning  ::  
+reckoning  ::  rechnen
 recognizable  ::  erkennbar
-recognize  ::  
+recognize  ::  erkenne
 recognized  ::  anerkannt
-recollect  ::  
+recollect  ::  sich erinnern
 recollected  ::  erinnerten sich
 recollection  ::  Erinnerung
 recommenced  ::  wieder aufgenommen
 recommend  ::  empfehlen
 recommendation  ::  Empfehlung
-recompose  ::  
+recompose  ::  neu zusammensetzen
 reconnoiter  ::  erkunden
 reconnoitering  ::  Rekognoszierung
-reconstruct  ::  
-reconstructed  ::  
+reconstruct  ::  rekonstruieren
+reconstructed  ::  rekonstruiert
 reconstructing  ::  rekonstruieren
 record  ::  Aufzeichnung
-recorded  ::  
+recorded  ::  verzeichnet
 recourse  ::  Zuflucht
 recovered  ::  erholt
 recovering  ::  erholt
 RECOVERY  ::  WIEDERHERSTELLUNG
-recreation  ::  
-recruit  ::  
-rectify  ::  
-Rector  ::  
+recreation  ::  Erholung
+recruit  ::  rekrutieren
+rectify  ::  beheben
+Rector  ::  Rektor
 recumbent  ::  Liegerad
 red  ::  rot
 reddish  ::  rötlich
 redistribute  ::  umverteilen
 redistributing  ::  Umverteilung
-Redistribution  ::  
+Redistribution  ::  Umverteilung
 red—mere  ::  rot-rein
 redouble  ::  verdoppeln
 redoubled  ::  verdoppelt
 reduce  ::  reduzieren
 reduced  ::  reduziert
-reed  ::  
+reed  ::  Schilf
 reefs  ::  Riffe
 reeking  ::  stinkend
 reference  ::  Referenz
@@ -5896,8 +5896,7 @@ references  ::  Verweise
 referred  ::  bezeichnet
 referring  ::  Bezugnahme
 reflect  ::  reflektieren
-reflected  ::  
-reflecting  ::  
+reflected  ::  reflektiert
 reflection  ::  Betrachtung
 reflections  ::  Reflexionen
 reflections—whatever  ::  Reflexionen - was auch immer
@@ -5907,103 +5906,70 @@ refresh  ::  Aktualisierung
 refreshed  ::  aktualisiert
 refreshing  ::  erfrischend
 refreshment  ::  Erfrischung
-refuge  ::  
 refund  ::  Rückerstattung
 refusal  ::  Ablehnung
 refused  ::  verweigert
 refusing  ::  Verweigerung
-refute  ::  
 regain  ::  wiedergewinnen
 regained  ::  wiedergewonnen
-regard  ::  
 regarded  ::  betrachtet
 Regarding  ::  Bezüglich
 regardless  ::  ungeachtet
 region  ::  Region
-regions  ::  
 regions—somewhere  ::  Regionen irgendwo
 regions—to  ::  Regionen-zu
-registered  ::  
 regret  ::  Bedauern
 regular  ::  regulär
-regularity  ::  
-regularly  ::  
-reigned  ::  
-rejected  ::  
 rejoin  ::  wiedervereinigen
 rejoinder  ::  Gegenerwiderung
 rejoined  ::  wieder vereint
 relapse  ::  Rückfall
 related  ::  verbunden
 relation  ::  Beziehung
-relative  ::  
 relatively  ::  verhältnismäßig
 relaxed—and  ::  entspannt-und
 release  ::  Freisetzung
 released  ::  freigegeben
-reliance  ::  
 relic  ::  Relikt
 relics  ::  Reliquien
 relief  ::  Linderung
 relish  ::  genießen
-remain  ::  
 remained  ::  blieb
-remains  ::  
 remark  ::  Anmerkung
-remarkable  ::  
 remarkably  ::  bemerkenswert
 remarked  ::  bemerkt
 remarks  ::  Bemerkungen
 remedy  ::  Abhilfe
 remember  ::  merken
 remembered  ::  fiel ein
-remembrance  ::  
 reminded  ::  erinnert
 reminding  ::  Erinnern
 remnant  ::  Rest
 remotest  ::  am entferntesten
 remove  ::  Löschen
-removed  ::  
-remuneration  ::  
 renamed  ::  umbenannt
-rend  ::  
 render  ::  machen
-rendered  ::  
 renew  ::  erneuern
 renewal  ::  Erneuerung
 renewed  ::  erneuert
-renounce  ::  
 renovating  ::  Renovierung
-rents  ::  
 reopen  ::  wieder öffnen
 repair  ::  Reparatur
-repairing  ::  
 repast  ::  Mahl
 repeated  ::  wiederholt
-repetition  ::  
-replace  ::  
-replaced  ::  
-replied  ::  
 replies  ::  Antworten
-reply  ::  
 report  ::  Bericht
 reports  ::  Berichte
-repose  ::  
 representations  ::  Darstellungen
-representative  ::  
 represented  ::  repräsentiert
-reproach  ::  
 reptile  ::  Reptil
 reptiles  ::  Reptilien
 repulsion  ::  Abstoßung
-repulsive  ::  
 reputation  ::  Ruf
 request  ::  anfordern
 require  ::  benötigen
 required  ::  erforderlich
 requirements  ::  Anforderungen
-requiring  ::  
-research  ::  
 researches  ::  Forschungen
 resemblance  ::  Ähnlichkeit
 resemble  ::  ähneln
@@ -6026,7 +5992,6 @@ resolution  ::  Auflösung
 resolve  ::  Entschlossenheit
 resolved  ::  aufgelöst
 resound  ::  erklingen
-resounded  ::  
 resource  ::  Ressource
 resources  ::  Ressourcen
 respect  ::  Respekt
@@ -6034,7 +5999,6 @@ respected  ::  respektierte
 respectful  ::  respektvoll
 respective  ::  entsprechend
 respiration  ::  Atmung
-resplendent  ::  
 respond  ::  reagieren
 responded  ::  geantwortet
 response  ::  Antwort
@@ -6044,7 +6008,6 @@ resting  ::  ruhen
 restore  ::  wiederherstellen
 restored  ::  restauriert
 restrain  ::  zurückhalten
-restrained  ::  
 restraining  ::  Zurückhaltung
 restrictions  ::  Beschränkungen
 result  ::  Ergebnis
@@ -6084,7 +6047,6 @@ revolting  ::  widerlich
 revolving  ::  drehend
 reward  ::  Belohnung
 rewriting  ::  umschreiben
-reykir  ::  
 Reykjanes  ::  Reykjanes
 Reykjavik  ::  Reykjavík
 rheumatic  ::  rheumatisch
@@ -6188,8 +6150,8 @@ rudimentary  ::  rudimentär
 rug  ::  Teppich
 rugged  ::  robust
 rugs  ::  Teppiche
-Ruhmkorff  ::  Ruhmkorff
 Ruhmkorff's  ::  Ruhmkorffs
+Ruhmkorff  ::  Ruhmkorff
 ruin  ::  Ruine
 ruins  ::  Ruinen
 rule  ::  Regel
@@ -6217,8 +6179,8 @@ sacred  ::  heilig
 sacrifice  ::  Opfern
 sacrilege  ::  Sakrileg
 sacrilegious  ::  Sakrileg
-sad  ::  traurig
 sad-looking  ::  traurig aussehend
+sad  ::  traurig
 sadly  ::  traurig
 sadness  ::  Traurigkeit
 saellvertu  ::  Saellvertu
@@ -6245,8 +6207,8 @@ salary  ::  Gehalt
 saline  ::  Kochsalzlösung
 Salisbury  ::  Salisbury
 sallied  ::  verklagt
-salt  ::  Salz-
 salt-sea  ::  Salz-Meer
+salt  ::  Salz-
 salting  ::  salzen
 salutation  ::  Anrede
 salute  ::  Gruß
@@ -6262,8 +6224,8 @@ sandstone  ::  Sandstein
 sandy  ::  sandig
 sane  ::  gesund
 sanest  ::  gesund
-sang  ::  sang
 sang-froid  ::  Gelassenheit
+sang  ::  sang
 sanguine  ::  sanguinisch
 sank  ::  versank
 Sansan  ::  Sansan
@@ -6407,10 +6369,10 @@ seized  ::  beschlagnahmt
 seizing  ::  fassend
 seldom  ::  selten
 selects  ::  wählt aus
-self  ::  selbst
 self-allotted  ::  selbst zugeteilt
 self-delusion  ::  Selbsttäuschung
 self-satisfied  ::  selbstzufrieden
+self  ::  selbst
 selves  ::  Selbst
 semioblivion  ::  Semioblivion
 semiobscurity  ::  Halbsicherheit
@@ -6442,8 +6404,8 @@ serge  ::  Serge
 series  ::  Serie
 serious  ::  ernst
 seriously  ::  ernst
-serpent  ::  Schlange
 serpent-like  ::  schlangenartig
+serpent  ::  Schlange
 serpents  ::  Schlangen
 servant  ::  Diener
 serve  ::  Dienen
@@ -6459,10 +6421,10 @@ settled  ::  erledigt
 seven  ::  Sieben
 seventeen  ::  siebzehn
 seventh  ::  siebte
-seventy  ::  siebzig
 seventy-four  ::  vierundsiebzig
 seventy-nine  ::  neunundsiebzig
 seventy-third  ::  dreiundsiebzigste
+seventy  ::  siebzig
 Several  ::  Mehrere
 severe  ::  schwer
 severely  ::  stark
@@ -6490,8 +6452,8 @@ share  ::  Aktie
 shared  ::  geteilt
 shares  ::  Anteile
 sharing  ::  teilen
-shark  ::  Hai
 shark-crocodile  ::  Haikrokodil
+shark  ::  Hai
 sharks  ::  Haie
 sharp  ::  Scharf
 sharply  ::  scharf
@@ -6631,17 +6593,17 @@ site  ::  Seite? ˅
 sitting  ::  Sitzung
 situated  ::  gelegen
 situation  ::  Lage
-six  ::  sechs
 six-footed  ::  sechsfüßig
 six-shooters  ::  Sechs-Shooter
 six-sided  ::  sechsseitig
 six-tenths  ::  sechs Zehntel
+six  ::  sechs
 sixteen  ::  Sechszehn
 sixteenth  ::  sechzehnten
 sixth  ::  sechste
-sixty  ::  sechzig
 sixty-fifth  ::  Fünfundsechzig
 sixty-three  ::  dreiundsechzig
+sixty  ::  sechzig
 size  ::  Größe
 size:  ::  Größe:
 size—once  ::  Größe einmal
@@ -6718,8 +6680,8 @@ snatch  ::  schnappen
 snatched  ::  geschnappt
 snatches  ::  reißt
 snatching  ::  entreißen
-Sneffels  ::  Sneffels
 Sneffels'  ::  Sneffels '
+Sneffels  ::  Sneffels
 Sneffels—a  ::  Sneffels-a
 SNEFFELS—THE  ::  SNEFFELS-DAS
 sniffed  ::  schnüffelte
@@ -6991,8 +6953,8 @@ stopping  ::  Anhalten
 stops  ::  stoppt
 stores  ::  Shops
 stories  ::  Geschichten
-storm  ::  Sturm
 storm-beaten  ::  Sturmgeprügelt
+storm  ::  Sturm
 storms  ::  Stürme
 stormy  ::  stürmisch
 story  ::  Geschichte
@@ -7131,8 +7093,8 @@ summer—in  ::  Sommer-in
 summit  ::  Gipfel
 summits  ::  Gipfeltreffen
 summoned  ::  beschworen
-sun  ::  Sonne
 sun-dial  ::  Sonnenuhr
+sun  ::  Sonne
 Sund  ::  Sund
 Sunday  ::  Sonntag
 Sundays  ::  Sonntags
@@ -7277,8 +7239,8 @@ tempests  ::  Stürme
 temple—ruins  ::  Tempelruinen
 temporary  ::  vorübergehend
 tempting  ::  verlockend
-ten  ::  zehn
 ten-inch  ::  zehn Zoll
+ten  ::  zehn
 tenacity  ::  Beharrlichkeit
 tend  ::  neigen
 tendency  ::  Tendenz
@@ -7304,8 +7266,8 @@ terribly  ::  fürchterlich
 terrific  ::  großartig
 terrified  ::  erschrocken
 terrifying  ::  schrecklich
-terror  ::  Terror
 terror-stricken  ::  Terror betroffen
+terror  ::  Terror
 Tertiary  ::  Tertiär
 testily  ::  gereizt
 Teutobochus  ::  Teutobochus
@@ -7315,8 +7277,8 @@ thank  ::  danken
 thanked  ::  dankte
 Thanks  ::  Vielen Dank
 thanksgiving—believing  ::  Danksagung-glauben
-that  ::  Das
 that's  ::  das ist
+that  ::  Das
 that—  ::  Das-
 the  ::  das
 theater  ::  Theater
@@ -7331,8 +7293,8 @@ Then—  ::  Dann-
 theoretical  ::  theoretisch
 theories  ::  Theorien
 theory  ::  Theorie
-there  ::  Dort
 There's  ::  Da ist
+there  ::  Dort
 thereabout  ::  darum herum
 thereabouts  ::  dort herum
 thereby  ::  damit
@@ -7357,10 +7319,10 @@ thirst  ::  Durst
 thirsty  ::  durstig
 thirteen  ::  dreizehn
 thirteenth  ::  dreizehnte
-thirty  ::  dreißig
 thirty-five  ::  fünfunddreißig
 thirty-six  ::  sechsunddreißig
 thirty-two  ::  zweiunddreißig
+thirty  ::  dreißig
 this  ::  Dies
 this—to  ::  dies-zu
 thither  ::  dorthin
@@ -7470,8 +7432,8 @@ tormented  ::  gequält
 torn  ::  zerrissen
 torpedo  ::  Torpedo
 torpor  ::  Torpor
-torrent  ::  Torrent
 torrent's  ::  Torrents
+torrent  ::  Torrent
 torrents  ::  Torrents
 torrid  ::  glühend
 tortoise  ::  Schildkröte
@@ -7508,23 +7470,17 @@ trademark/copyright  ::  Marke / Urheberrecht
 trader  ::  Händler
 traders  ::  Händler
 trail  ::  Weg
-train  ::  
 trait  ::  Merkmal
-Trampe  ::  
 tramped  ::  gestampft
 trampling  ::  Trampling
 trance  ::  Trance
 tranquil  ::  still
 tranquilized  ::  beruhigt
-tranquillity  ::  
 tranquilly  ::  ruhig
-transcendent  ::  
 transferred  ::  übertragen
 transformation  ::  Transformation
 transformations  ::  Transformationen
 transformed  ::  transformiert
-transition  ::  
-translated  ::  
 translating  ::  übersetzen
 translation  ::  Übersetzung
 translucent  ::  durchscheinend
@@ -7534,21 +7490,15 @@ transported  ::  transportiert
 transverse  ::  quer
 trap  ::  Falle
 Trapani  ::  Trapani
-trash  ::  
 travel  ::  Reise
 traveled  ::  gereist
-traveler  ::  
-traveler's  ::  
-traveler—I  ::  
 travelers  ::  Reisende
-travelers—add  ::  
 traveling  ::  Reisen
 travels  ::  Reisen
 treacherous  ::  tückisch
 treading  ::  treten
 treasures  ::  Schätze
 treasures—mighty  ::  Schätze - mächtig
-treated  ::  
 treatises  ::  Abhandlungen
 treaty  ::  Vertrag
 tree  ::  Baum
@@ -7632,7 +7582,6 @@ Tva  ::  Tva
 twain  ::  Twain
 twelfth  ::  Zwölftel
 twelve  ::  zwölf
-twenty  ::  zwanzig
 twenty-eight  ::  achtundzwanzig
 twenty-five  ::  fünfundzwanzig
 twenty-four  ::  vierundzwanzig
@@ -7641,13 +7590,14 @@ twenty-one  ::  einundzwanzig
 Twenty-seven  ::  Siebenundzwanzig
 twenty-seventh  ::  siebenundzwanzigster
 twenty-two  ::  zweiundzwanzig
+twenty  ::  zwanzig
 twice  ::  zweimal
 twin  ::  Zwilling
 twinkling  ::  funkelnd
 twisted  ::  verdrehte
 twisting  ::  verdrehen
-two  ::  zwei
 two-peaked  ::  zweigipfelig
+two  ::  zwei
 twofold  ::  zweifach
 twopence  ::  twopence
 twos  ::  zwei
@@ -7675,8 +7625,8 @@ uncertain  ::  unsicher
 uncertainty  ::  Unsicherheit
 unchained  ::  entfesselte
 unchanged  ::  unverändert
-uncle  ::  Onkel
 uncle's  ::  Onkel's
+uncle  ::  Onkel
 uncle—  ::  Onkel-
 uncle—and  ::  Onkel-und
 uncles  ::  Onkel
@@ -7719,8 +7669,8 @@ unfortunate  ::  unglücklich
 Unfortunately  ::  Unglücklicherweise
 ungrateful  ::  undankbar
 unhappy  ::  unzufrieden
-unheard  ::  ungehört
 unheard-of  ::  unerhört
+unheard  ::  ungehört
 unhesitatingly  ::  ohne Zögern
 uniform  ::  Uniform
 uniformity  ::  Gleichmäßigkeit
@@ -8044,8 +7994,8 @@ web  ::  Netz
 wedges  ::  Keile
 Wednesday  ::  Mittwoch
 weeds  ::  Unkraut
-week  ::  Woche
 week's  ::  Wochen
+week  ::  Woche
 weekday  ::  Wochentag
 weeks  ::  Wochen
 weeping  ::  weinend
@@ -8054,9 +8004,9 @@ weight  ::  Gewicht
 weighty  ::  gewichtig
 weird  ::  seltsam
 welcome  ::  herzlich willkommen
-well  ::  Gut
 well-known  ::  sehr bekannt
 well-nigh  ::  naja
+well  ::  Gut
 welling  ::  Brunnen
 well—but  ::  gut aber
 Well—to  ::  Gut zu
@@ -8074,9 +8024,9 @@ wet  ::  nass
 wetting  ::  Benetzung
 whale  ::  Wal
 whales  ::  Wale
-what  ::  Was
 What'  ::  Was'
 What's  ::  Was ist?
+what  ::  Was
 whatever  ::  was auch immer
 What—two  ::  Was-zwei
 What—what  ::  Was was
@@ -8158,8 +8108,8 @@ wise  ::  weise
 wise:  ::  weise:
 wisely  ::  weise
 wish  ::  Wunsch
-wished  ::  gewünscht
 wished-for  ::  gewünscht
+wished  ::  gewünscht
 wished—for  ::  gewünscht
 wishes  ::  wünscht sich
 wishing  ::  Wunsch
@@ -8210,14 +8160,14 @@ work—to  ::  arbeiten um
 works  ::  funktioniert
 workshop  ::  Werkstatt
 works—some  ::  funktioniert-einige
-world  ::  Welt
 world's  ::  Welt
+world  ::  Welt
 worldly  ::  weltlich
 world—renowned  ::  weltbekannt
 world—while  ::  Welt während
 worm  ::  Wurm
-worn  ::  getragen
 worn-out  ::  abgenutzt
+worn  ::  getragen
 Worse  ::  Schlechter
 worship  ::  Anbetung
 worst  ::  am schlimmsten
@@ -8259,8 +8209,8 @@ yawning  ::  Gähnen
 year  ::  Jahr
 years  ::  Jahre
 yelled  ::  schrie
-yellow  ::  Gelb
 yellow-leaved  ::  gelbblättrig
+yellow  ::  Gelb
 yellow—by  ::  gelb-vorbei
 Yes  ::  Ja
 Yes—according  ::  Ja-entsprechend
