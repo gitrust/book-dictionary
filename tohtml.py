@@ -3,7 +3,7 @@ import codecs
 import sys
 
 # minified version, without line breaks
-minified = True
+minified = False
 
 def createindex():
     alpha = ""
@@ -12,14 +12,20 @@ def createindex():
     for c in ascii_lowercase:
         i += 1
         alpha = alpha + '<a href="#' + c + '">' + c.upper() + '</a>&nbsp;&nbsp;&nbsp;'
+        
+        # line break
         if i % 13 == 0:
             alpha += "<br><br>"
-    alpha = alpha + "</div><br><br>"
+    alpha = alpha + "</div>"
     return alpha
 
+def file2text(f):
+    with open(f, 'r') as myfile:
+        return myfile.read().replace('\n', ' ')
+    
 def createCapitalLetter(s):
     # create anchor and capital letter
-    return '<a name="' + s.lower() + '"> <h2>'+ s.upper() + '</h2>'
+    return '<a name="' + s.lower() + '"><br><br><br><h2>'+ s.upper() + '</h2>'
         
 def word(w):
     return "<p>" +w.strip() + "</p>"
@@ -38,17 +44,17 @@ def writehtml(input,output,title):
     println(h,"<head>")
     println(h,'<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>')
     println(h,'<style type="text/css">');
-    println(h,' div.index {margin-left: 15px}')
-    println(h,' p {margin: 2px; padding: 2px;}')
-    println(h,' div.dic {font-size: 1.6em; margin-left: 15px;}')
-    println(h,' a {font-size: 1.6em;}')
-    println(h,' h2 {text-align: center;} ')
+    println(h,file2text("style.css"))
     println(h,'</style>');
-    println(h,'<title>'+title+'</title>')
+    println(h,'<title>' + title + '</title>')
     println(h,"</head>")
-    println(h,"<body>")
-    println(h,"<h1>"+title+"</h1>")
-
+    println(h,"<body>")    
+    println(h,"<header>")
+    println(h,"<div class='inner'>")    
+    println(h,createindex())
+    println(h,"</div>")
+    println(h,"</header>")
+    println(h,'<section id="content">')
     lastchar = ""
     opendiv = False
     
@@ -62,7 +68,7 @@ def writehtml(input,output,title):
                 println(h,'</div>')
                 opendiv = False
             println(h,createCapitalLetter(lc))
-            println(h,createindex())
+            #println(h,createindex())
             
             # mark a dictionary block
             println(h,'<div class="dic">')
@@ -76,6 +82,10 @@ def writehtml(input,output,title):
         opendiv = False
     f.close()
 
+    println(h,"</section>")
+    println(h,"<footer>")
+    println(h,"<span class='title'>" + title + "</span>")
+    println(h,"</footer>")
     println(h,"</body></html>")
     h.close()
 

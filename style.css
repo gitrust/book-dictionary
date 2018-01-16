@@ -1,0 +1,39 @@
+div.index {margin-left: 15px}
+p {margin: 2px; padding: 2px;}
+div.dic {font-size: 1.6em; margin-left: 15px;}
+a {font-size: 1.6em;}
+h2 {text-align: center;}
+span.title {text-align: center;}
+header {
+    background: rgb(204, 204, 179);
+    width: 100%; 
+    position: fixed;
+    left: 0;
+    top: 0;
+    border-bottom:1px solid #666;
+    border-top:1px solid #666;
+	text-align:center;
+}
+.inner{
+    margin: 0 auto;
+    padding: 2px;
+    max-width: 1000px;
+    min-width:200px;
+    }
+section#content {
+    background-color: #fff;
+    max-width: 1000px;
+    min-width:200px;
+    margin:0  auto;
+    padding: 200px 20px 130px;
+    }
+footer {
+    background: #bbb;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    border-bottom:1px solid #666;
+    border-top:1px solid #666;
+	text-align: center;
+    }

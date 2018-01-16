@@ -11,7 +11,7 @@ book2text:
 	python totext.py > book.txt
 
 parse:
-	python parse.py > rawlist.txt
+	python parse.py book.txt > rawlist.txt
 	cat  rawlist.txt | sort | uniq -i > sorted.txt
 
 # translate dictionary entries

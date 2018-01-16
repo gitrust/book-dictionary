@@ -1,7 +1,7 @@
 import codecs
 
 # strings to remove
-rem = ['"','.',',','!','?',';','(',')']
+rem = ['"','.',',','!','?',';',':','(',')']
 
 
 def printwords(str):
@@ -25,4 +25,10 @@ def parsecontent(f):
 
     input.close()
 
-parsecontent("book.txt")
+
+def main():
+    parsecontent(sys.argv[1])
+    
+if __name__ == "__main__":
+    main()
+
