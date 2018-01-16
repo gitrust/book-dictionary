@@ -33,4 +33,4 @@ The idea behind this project was to have a lookup dictionary while reading a boo
 
 # Screenshot
 
-![Screenshot](screenshot.jpg "Screenshot")
+![Screenshot](screenshot.jpg)
