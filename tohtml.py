@@ -55,7 +55,7 @@ def writehtml(input,output,title):
     println(h,"<body>")    
     println(h,"<header>")
     println(h,"<div class='inner'>")    
-    println(h,'<a href="#overlay">NAVIGATION</a>')
+    println(h,'<a class="navigation" href="#overlay">NAVIGATION</a>')
     println(h,"</div>")
     println(h,"</header>")
     println(h,createindex())
@@ -73,7 +73,6 @@ def writehtml(input,output,title):
                 println(h,'</div>')
                 opendiv = False
             println(h,createCapitalLetter(lc))
-            #println(h,createindex())
             
             # mark a dictionary block
             println(h,'<div class="dic">')
