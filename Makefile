@@ -21,7 +21,7 @@ download-book:
 
 # Convert HTML book to text version
 book2text:
-	python totext.py > book.txt
+	python totext.py book.html > book.txt
 
 parse-text:
 	python parse.py book.txt > rawlist.txt
