@@ -15,8 +15,8 @@ def createindex():
         alpha += '<a class="button1" href="#' + c + '">' + c.upper() + '</a>'
         
         # line break
-        if i % 13 == 0:
-            alpha += ""
+        if i % 3 == 0:
+            alpha += "<br>"
     alpha += "</div>" # /index
     alpha += "</div>" # /overlay
     # javascript for the mask

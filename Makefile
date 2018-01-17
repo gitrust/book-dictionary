@@ -51,3 +51,11 @@ untranslated:
 # filter untranslated words (error during translation) to a new list
 filter-translated:
 	grep -ve ':: *$$' translated.txt | sort > filtered-translated.txt
+
+# create patch with local changes
+git-patch:
+	git format-patch origin
+
+# apply mail patches
+git-apply-patch:
+	git am < 000*.patch
