@@ -7,16 +7,20 @@ minified = False
 
 def createindex():
     alpha = ""
+    alpha += '<div id="overlay">'
     alpha += '<div class="index">'
     i = 0
     for c in ascii_lowercase:
         i += 1
-        alpha = alpha + '<a href="#' + c + '">' + c.upper() + '</a>&nbsp;&nbsp;&nbsp;'
+        alpha += '<a class="button1" href="#' + c + '">' + c.upper() + '</a>'
         
         # line break
         if i % 13 == 0:
-            alpha += "<br><br>"
-    alpha = alpha + "</div>"
+            alpha += ""
+    alpha += "</div>" # /index
+    alpha += "</div>" # /overlay
+    # javascript for the mask
+    alpha += """<div id='mask' onclick="document.location='#';"></div>"""
     return alpha
 
 def file2text(f):
@@ -25,7 +29,7 @@ def file2text(f):
     
 def createCapitalLetter(s):
     # create anchor and capital letter
-    return '<a name="' + s.lower() + '"><br><br><br><h2>'+ s.upper() + '</h2>'
+    return '<a name="' + s.lower() + '"><br><h2>'+ s.upper() + '</h2>'
         
 def word(w):
     return "<p>" +w.strip() + "</p>"
@@ -51,9 +55,10 @@ def writehtml(input,output,title):
     println(h,"<body>")    
     println(h,"<header>")
     println(h,"<div class='inner'>")    
-    println(h,createindex())
+    println(h,'<a href="#overlay">NAVIGATION</a>')
     println(h,"</div>")
     println(h,"</header>")
+    println(h,createindex())
     println(h,'<section id="content">')
     lastchar = ""
     opendiv = False

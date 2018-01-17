@@ -1,4 +1,4 @@
-div.index {margin-left: 15px}
+
 p {margin: 2px; padding: 2px;}
 div.dic {font-size: 1.6em; margin-left: 15px;}
 a {font-size: 1.6em;}
@@ -14,12 +14,12 @@ header {
     border-top:1px solid #666;
 	text-align:center;
 }
-.inner{
+/*.inner{
     margin: 0 auto;
     padding: 2px;
     max-width: 1000px;
     min-width:200px;
-    }
+    }*/
 section#content {
     background-color: #fff;
     max-width: 1000px;
@@ -37,3 +37,77 @@ footer {
     border-top:1px solid #666;
 	text-align: center;
     }
+	
+/* overlay */
+a.button1{
+ display:inline-block;
+ padding:0.35em 1.2em;
+ border:0.1em solid #FFFFFF;
+ margin:0 0.3em 0.3em 0;
+ border-radius:0.12em;
+ box-sizing: border-box;
+ text-decoration:none;
+ font-family:'Roboto',sans-serif;
+ font-weight:300;
+ color:#FFFFFF;
+ text-align:center;
+ transition: all 0.2s;
+}
+a.button1:hover{
+ color:#000000;
+ background-color:#FFFFFF;
+}
+@media all and (max-width:30em){
+ a.button1{
+  display:block;
+  margin:0.4em auto;
+ }
+} 
+
+div.index {font-size: 20px}
+*{margin:0;padding:0;}
+
+#overlay{ /* we set all of the properties for are overlay */
+    height:90%;
+    width:80%;
+    margin:0 auto;
+    color:black;
+    padding:10px;
+    position:absolute;
+    top:5%;
+    left:10%;
+    z-index:1000;
+    display:none;
+    /* CSS 3 */
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -o-border-radius:10px;
+    border-radius:10px;
+}
+
+#mask{ /* create are mask */
+    position:fixed;
+    top:0;
+    left:0;
+    background:rgba(0,0,0,0.6);
+    z-index:500;
+    width:100%;
+    height:100%;
+    display:none;
+}
+/* use :target to look for a link to the overlay then we find are mask */
+#overlay:target, #overlay:target + #mask{
+    display:block;
+    opacity:1;
+}
+
+#open-overlay{ /* open the overlay */
+    padding:10px 5px;
+    text-decoration:none;
+    display:inline-block;
+    margin:20px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -o-border-radius:10px;
+    border-radius:10px;
+}
