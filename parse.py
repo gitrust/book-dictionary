@@ -1,4 +1,5 @@
 import codecs
+import sys
 
 # strings to remove
 rem = ['"','.',',','!','?',';',':','(',')']
@@ -15,7 +16,7 @@ def printwords(str):
             # skip digits and not-alphanumeric 
             if s[0:1].isdigit() or not s[0:1].isalpha():
                 continue
-            print(s)
+            print(s.encode("utf-8"))
 
 def parsecontent(f):
     input = codecs.open(f,"r","utf-8")
