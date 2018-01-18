@@ -6,9 +6,8 @@ p {
  font-size: 7vw;
  margin: 2px; 
  padding: 2px;
- font-family:'Roboto',sans-serif;
 }
-a.navigation {font-size: 4em; }
+a.navigation {font-size: 6em; }
 div.dic {font-size: 1.6em; margin-left: 15px;}
 
 h1 {
@@ -22,23 +21,12 @@ h2 {
  font-size: 12vw;
 }
 span.title {text-align: center; font-size: 1.5em;}
-header {
-    background: rgb(204, 204, 179);
-    width: 100%; 
-    position: fixed;
-    left: 0;
-    top: 0;
-    border-bottom:1px solid #666;
-    border-top:1px solid #666;
-	text-align:center;
-}
 
 section#content {
     background-color: #fff;
-    max-width: 1000px;
     min-width: 10px;
     margin:0  auto;
-    padding: 10px 20px 130px;
+    padding: 10px;
     }
 footer {
     background: #bbb;
@@ -100,9 +88,11 @@ div.index {font-size: 20px}
     top:0;
     left:0;
     background:rgba(0,0,0,0.6);
-    z-index:500;
+    z-index:500;	
     width:100%;
+	width: 100vw;
     height:100%;
+	height: 100vh;
     display:none;
 }
 /* use :target to look for a link to the overlay then we find are mask */
@@ -162,7 +152,7 @@ div.index {font-size: 20px}
     list-style-type:none;
     background-color: rgba(233,0,0,0.5);
     color:#efefef;
-    height:43px;
+    height:60px;
     padding:0px;
     margin:0px 0px 1px 0px;
     -webkit-transition:all 0.25s ease-in-out;
