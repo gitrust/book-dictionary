@@ -13,7 +13,7 @@ def createindex():
     i = 0
     for c in ascii_lowercase:
         i += 1
-        alpha += '<div class="masonry-brick"><a class="button-navi" href="#' + c + '">' + c.upper() + '</a></div>'
+        alpha += '<a class="button1" href="#' + c + '">' + c.upper() + '</a>'
         
         # line break
         if i % 3 == 0:
@@ -25,8 +25,12 @@ def createindex():
     return alpha
 
 def file2text(f):
-    with open(f, 'r') as myfile:
+    with codecs.open(f, 'r','utf-8') as myfile:
         return myfile.read().replace('\n', ' ')
+
+def template(tname):
+    with codecs.open('templ/' + tname + '.html', 'r','utf-8') as myfile:
+        return myfile.read()
     
 def createCapitalLetter(s):
     # create anchor and capital letter
@@ -53,14 +57,11 @@ def writehtml(input,output,title):
     println(h,'</style>');
     println(h,'<title>' + title + '</title>')
     println(h,"</head>")
-    println(h,"<body>")    
-    println(h,"<header>")
-    println(h,"<div class='inner'>")    
-    println(h,'<a class="navigation" href="#overlay">NAVIGATION</a>')
-    println(h,"</div>")
-    println(h,"</header>")
+    println(h,"<body>")
+    println(h,'<h1>' + title + '</h1>')
     println(h,createindex())
     println(h,'<section id="content">')
+    println(h,template('slider'))
     lastchar = ""
     opendiv = False
     
