@@ -28,9 +28,13 @@ def file2text(f):
     with codecs.open(f, 'r','utf-8') as myfile:
         return myfile.read().replace('\n', ' ')
 
-def template(tname):
+def template(tname,vars=[]):
     with codecs.open('templ/' + tname + '.html', 'r','utf-8') as myfile:
-        return myfile.read()
+        t = myfile.read()
+        if len(vars) > 0:
+            for name,value in vars:
+                t = t.replace('${{'+name+'}}',value)
+        return t
     
 def createCapitalLetter(s):
     # create anchor and capital letter
@@ -89,9 +93,7 @@ def writehtml(input,output,title):
     f.close()
 
     println(h,"</section>")
-    println(h,"<footer>")
-    println(h,"<span class='title'>" + title + "</span>")
-    println(h,"</footer>")
+    println(h,template('footer',[('title',title)]))
     println(h,"</body></html>")
     h.close()
 
