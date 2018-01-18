@@ -8,18 +8,18 @@ minified = False
 
 def createindex():
     alpha = ""
-    #alpha += '<div id="overlay">'
+    alpha += '<div id="overlay">'
     alpha += '<div class="masonry-container">'
     i = 0
     for c in ascii_lowercase:
         i += 1
-        alpha += '<div class="masonry-brick"><a class="button1" href="#' + c + '">' + c.upper() + '</a></div>'
+        alpha += '<div class="masonry-brick"><a class="button-navi" href="#' + c + '">' + c.upper() + '</a></div>'
         
         # line break
         if i % 3 == 0:
             alpha += ""
     alpha += "</div>" # /index
-    #alpha += "</div>" # /overlay
+    alpha += "</div>" # /overlay
     # javascript for the mask
     alpha += """<div id='mask' onclick="document.location='#';"></div>"""
     return alpha
@@ -104,7 +104,6 @@ def main():
         print("Usage: python tohtml.py <input> <output> <title>")
     
     checkfile(sys.argv[1])
-    checkfile(sys.argv[2])
     
     writehtml(sys.argv[1],sys.argv[2],sys.argv[3])
 

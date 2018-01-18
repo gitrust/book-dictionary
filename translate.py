@@ -41,7 +41,8 @@ def main():
     f = openfile(sys.argv[1],"r")    
     out = openfile(sys.argv[2],"a")
     
-    bucketsize = 50
+    # count of words to translate at once
+    bucketsize = 70
     i = 0
     bucket = []
     for entry in f:

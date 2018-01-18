@@ -107,3 +107,38 @@ div.index {font-size: 20px}
     opacity:1;
 }
 
+/* Masonry bricks */
+.masonry-brick {
+    color: #FFF;
+    background-color: #bada55;
+    display: inline-block;
+    padding: 2px;
+    width: 80%;
+    text-align: center;
+    font-size: 6vw;
+    margin: 5px 5px; /* for separating masonry-bricks vertically*/
+}
+
+@media only screen and (min-width: 180px) {
+    .masonry-container {
+        -moz-column-count: 3;
+        -webkit-column-count: 3;
+        column-count: 3;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .masonry-container {
+        -moz-column-count: 4;
+        -webkit-column-count: 4;
+        column-count: 4;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .masonry-container {
+        -moz-column-count: 5;
+        -webkit-column-count: 5;
+        column-count: 5;
+    }
+}
