@@ -1,24 +1,25 @@
 from string import ascii_lowercase
 import codecs
 import sys
+import os.path
 
 # minified version, without line breaks
 minified = False
 
 def createindex():
     alpha = ""
-    alpha += '<div id="overlay">'
-    alpha += '<div class="index">'
+    #alpha += '<div id="overlay">'
+    alpha += '<div class="masonry-container">'
     i = 0
     for c in ascii_lowercase:
         i += 1
-        alpha += '<a class="button1" href="#' + c + '">' + c.upper() + '</a>'
+        alpha += '<div class="masonry-brick"><a class="button1" href="#' + c + '">' + c.upper() + '</a></div>'
         
         # line break
         if i % 3 == 0:
-            alpha += "<br>"
+            alpha += ""
     alpha += "</div>" # /index
-    alpha += "</div>" # /overlay
+    #alpha += "</div>" # /overlay
     # javascript for the mask
     alpha += """<div id='mask' onclick="document.location='#';"></div>"""
     return alpha
@@ -93,7 +94,18 @@ def writehtml(input,output,title):
     println(h,"</body></html>")
     h.close()
 
+def checkfile(fname):
+    if not os.path.isfile(fname):
+        print("Missing file " + fname)
+        sys.exit(1)
+        
 def main():
+    if len(sys.argv) < 4:
+        print("Usage: python tohtml.py <input> <output> <title>")
+    
+    checkfile(sys.argv[1])
+    checkfile(sys.argv[2])
+    
     writehtml(sys.argv[1],sys.argv[2],sys.argv[3])
 
 if __name__ == "__main__":
