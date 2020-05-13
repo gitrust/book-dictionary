@@ -24,6 +24,7 @@ The idea behind this project was to have a lookup dictionary while reading a boo
 * python module googletrans 2.2.0
 * python module beautifulsoup
 * make
+* Unix tools (wget, cat, mv, sort, grep)
 
 # References
 
